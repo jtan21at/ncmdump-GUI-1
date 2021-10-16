@@ -21,7 +21,7 @@
 ## 编译依赖
 
  1. wxWidgets - GUI库
- 2. taglib - ncmdump的依赖
+ 2. taglib - 
 
 ## 注意事项
 
