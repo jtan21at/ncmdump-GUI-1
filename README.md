@@ -1,6 +1,6 @@
-# ncmdump-GUI v1.3
+# npGUI v1.3
 
-跨平台的ncmdump图形界面，**实验性项目**。
+跨平台的 图形界面，**实验性项目**。
  
 本项目使用 [anonymous5l/](https://github.com/anonymous5l/ncmdump) 作为后端，稍作改动以适应GUI的情形。
 
